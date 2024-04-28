@@ -102,6 +102,8 @@ Follow these steps to deploy the AWS CDK data pipeline:
     ```bash
     cdk deploy
     ```
+## Architecture
+![Data Pipeline](img/data_pipeline.png)
 
 ## CDK Stack Definition
 
